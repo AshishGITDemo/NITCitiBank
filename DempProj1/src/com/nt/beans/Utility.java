@@ -20,4 +20,8 @@ public class Utility {
 		System.out.println("Utility.m4()");
 	}
 
+	public void m3() {
+		System.out.println("Utility.m3()");
+	}
+
 }
